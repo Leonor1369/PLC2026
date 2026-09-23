@@ -1,4 +1,4 @@
-# [Título do Trabalho]
+# TPC1 
 
 ## Author 
 
@@ -9,11 +9,11 @@
 
 ## Resume
 
-[Paragraph  1 — descrição do TPC]
+Descrição do TPC - Criar expressão regular para apanhar Strings Binárias que não contenham a subString "011".
+Para a realização do trabalho de casa utilizou-se : https://regex101.com/
 
 [Paragraph  2 — abordagem/tecnologias usadas]
 
 ## Results List
 
-- [Exercise 1](./caminho/para/ficheiro1)
-- [Exercise 2](./caminho/para/ficheiro2)
+- [Exercise 1](./TPC1/)
