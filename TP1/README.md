@@ -14,4 +14,4 @@ Para a realização do trabalho de casa utilizou-se : https://regex101.com/
 
 ## Results List
 
-- [Exercise 1](./TP1/exercise_1.py/)
+- [Exercise 1](./exercise_1.py/)
