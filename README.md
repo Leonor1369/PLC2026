@@ -6,3 +6,4 @@ This repository contains all coursework for the Processamento de Linguagem e Com
 
 - [TPC1](/TP1/exercise_1.py)
 - [TPC2](/TPC2/exercise_2.py)
+- [TPC3](/TPC3/token_def.json)
